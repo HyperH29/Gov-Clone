@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Website Clone of Gov.co.uk
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a clone of the gov.co.uk website. It is a static website built using ReactJS and React-Bootstrap. The website is responsive and works on all devices.
+It has no functionality and is just a clone of the original website as good as I could do within the time limit.
+
+# Installation 
+
+### `npm install`
 
 ## Available Scripts
 
